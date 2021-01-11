@@ -1,6 +1,13 @@
 import React, { Component } from 'react'
+import image from '../assests/image.png'
+import imagee from '../assests/image2.jpg'
+import images from '../assests/image3.webp'
+import imagees from '../assests/image4.jpg'
+import imageess from '../assests/image5.jpg'
+import imageees from '../assests/image6.jpg'
 
 export const DataContext = React.createContext();
+
 
 export class DataProvider extends Component {
 
@@ -9,7 +16,7 @@ export class DataProvider extends Component {
             {
                 "_id": "1",
                 "title": "Nike Shoes 01",
-                "src": "https://www.upsieutoc.com/images/2020/06/27/img1.jpg",
+                 "src": image,
                 "description": "UI/UX designing, html css tutorials",
                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
                 "price": 23,
@@ -19,7 +26,7 @@ export class DataProvider extends Component {
             {
                 "_id": "2",
                 "title": "Nike Shoes 02",
-                "src": "https://www.upsieutoc.com/images/2020/06/27/img2.jpg",
+                "src":imagee,
                 "description": "UI/UX designing, html css tutorials",
                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
                 "price": 19,
@@ -29,7 +36,7 @@ export class DataProvider extends Component {
             {
                 "_id": "3",
                 "title": "Nike Shoes 03",
-                "src": "https://www.upsieutoc.com/images/2020/06/27/img3.jpg",
+                "src": images,
                 "description": "UI/UX designing, html css tutorials",
                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
                 "price": 50,
@@ -39,7 +46,7 @@ export class DataProvider extends Component {
             {
                 "_id": "4",
                 "title": "Nike Shoes 04",
-                "src": "https://www.upsieutoc.com/images/2020/06/27/img4.jpg",
+                "src": imagees,
                 "description": "UI/UX designing, html css tutorials",
                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
                 "price": 15,
@@ -49,7 +56,7 @@ export class DataProvider extends Component {
             {
                 "_id": "5",
                 "title": "Nike Shoes 05",
-                "src": "https://www.upsieutoc.com/images/2020/06/27/img5.jpg",
+                "src": imageees,
                 "description": "UI/UX designing, html css tutorials",
                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
                 "price": 10,
@@ -59,7 +66,7 @@ export class DataProvider extends Component {
             {
                 "_id": "6",
                 "title": "Nike Shoes 06",
-                "src": "https://www.upsieutoc.com/images/2020/06/27/img6.jpg",
+                "src": imageess,
                 "description": "UI/UX designing, html css tutorials",
                 "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
                 "price": 17,

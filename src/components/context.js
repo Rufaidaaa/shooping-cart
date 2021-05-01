@@ -17,8 +17,7 @@ export class DataProvider extends Component {
                 "_id": "1",
                 "title": "Nike Shoes 01",
                  "src": image,
-                "description": "UI/UX designing, html css tutorials",
-                "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
+                "content": "lorem",
                 "price": 23,
                 "colors":["red","black","crimson","teal"],
                 "count": 1
@@ -27,8 +26,7 @@ export class DataProvider extends Component {
                 "_id": "2",
                 "title": "Nike Shoes 02",
                 "src":imagee,
-                "description": "UI/UX designing, html css tutorials",
-                "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
+                "content": "lorem",
                 "price": 19,
                 "colors":["red","crimson","teal"],
                 "count": 1
@@ -37,8 +35,7 @@ export class DataProvider extends Component {
                 "_id": "3",
                 "title": "Nike Shoes 03",
                 "src": images,
-                "description": "UI/UX designing, html css tutorials",
-                "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
+                "content": "lorem",
                 "price": 50,
                 "colors":["lightblue","white","crimson","teal"],
                 "count": 1
@@ -47,8 +44,7 @@ export class DataProvider extends Component {
                 "_id": "4",
                 "title": "Nike Shoes 04",
                 "src": imagees,
-                "description": "UI/UX designing, html css tutorials",
-                "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
+                "content": "lorem",
                 "price": 15,
                 "colors":["orange","black","crimson","teal"],
                 "count": 1
@@ -57,8 +53,7 @@ export class DataProvider extends Component {
                 "_id": "5",
                 "title": "Nike Shoes 05",
                 "src": imageees,
-                "description": "UI/UX designing, html css tutorials",
-                "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
+                "content": "lorem",
                 "price": 10,
                 "colors":["orange","black","crimson","teal"],
                 "count": 1
@@ -67,8 +62,7 @@ export class DataProvider extends Component {
                 "_id": "6",
                 "title": "Nike Shoes 06",
                 "src": imageess,
-                "description": "UI/UX designing, html css tutorials",
-                "content": "Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.",
+                "content": "lorem",
                 "price": 17,
                 "colors":["orange","black","crimson","teal"],
                 "count": 1

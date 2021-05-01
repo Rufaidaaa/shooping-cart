@@ -9,7 +9,7 @@ export class Section extends Component {
     render() {
         return (
             <section>
-                <Route path="/" component={Product} exact /> 
+                <Route path="/shooping-cart" component={Product} exact /> 
                 <Route path="/product" component={Product} exact /> 
                 <Route path="/product/:id" component={Details} /> 
                 <Route path="/cart" component={Cart} /> 
